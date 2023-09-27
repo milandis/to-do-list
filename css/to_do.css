@@ -1,0 +1,99 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+    
+    .container {
+    background-color: #fff;
+    margin: 50px auto;
+    max-width: 500px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    
+    h1,h2 {
+    color: #333;
+    text-align: center;
+    }
+    
+    form {
+    margin-bottom: 20px;
+    display: flex;
+    }
+    
+    input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px 0 0 4px;
+    background-color: #f2f2f2;
+    outline: none;
+    }
+    
+    button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #003366;
+    color: #fff;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    }
+    
+    button:hover {
+    background-color: #002255;
+    }
+    
+    ul {
+    list-style-type: none;
+    padding: 0;
+    }
+    
+    li {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #ccc;
+    height: 37px;
+    }
+    li:hover{
+    cursor: pointer;
+    }
+    
+    li:last-child {
+    border-bottom: none;
+    }
+    .liStyle{
+       margin-bottom: 5px;
+      
+    }
+.btn{
+     float: right;
+}
+.select-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .select-label {
+    margin-right: 10px;
+    font-weight: bold;
+  }
+
+ .select-element option:hover{
+   
+    color: #fff;
+ }
+  .select-element {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    min-width: 15rem;
+    background-color: #003366;
+    color: #fff;
+    font-family:Arial, sans-serif;
+  }
+ 

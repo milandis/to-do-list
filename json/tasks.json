@@ -1,0 +1,34 @@
+
+  {
+    "monday": [
+      "Complete math homework",
+      "Submit English essay",
+      "Attend soccer practice"
+    ],
+    "tuesday": [
+      "Study for science test",
+      "Prepare for history presentation"
+    ],
+    "wednesday": [
+      "1Attend after-school tutoring",
+      "Meet with group for group project"
+    ],
+    "thursday": [
+      "Finish art project",
+      "Prepare for music recital"
+    ],
+    "friday": [
+      "Attend school club meeting",
+      "Study for upcoming exams"
+    ]
+    ,
+    "saturday": [
+      "Attend school club meeting",
+      "Study for upcoming exams"
+    ]
+   ,
+    "sunday": [
+      "Attend school club meeting",
+      "Study for upcoming exams"
+    ]
+  }
